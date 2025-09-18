@@ -4,7 +4,7 @@
                 <div class="col" style="text-align: center;">
                     <img class="mb-2" src="./img/ham-ico-64.png" alt="" width="64" height="64">
                     <span class="display-5">Larika</span>
-                    <small class="d-block mb-3">&copy; 2021</small>
+                    <small class="d-block mb-3">&copy; 2025</small>
                 </div>
             </div>
         </div>
